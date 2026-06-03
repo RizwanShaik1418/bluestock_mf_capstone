@@ -1,0 +1,14 @@
+Data Quality Summary
+
+1. Successfully loaded all provided datasets.
+2. Converted Excel files into CSV format.
+3. Explored fund_master dataset and validated schema.
+4. Identified 10 unique fund houses.
+5. Found 2 major categories: Equity and Debt.
+6. Found 11 sub-categories including Large Cap, Small Cap, Mid Cap, Flexi Cap, ELSS and others.
+7. Found 5 risk grades: Low, Moderate, High, Moderately High and Very High.
+8. Verified key columns including AMFI code, fund house, scheme name, category, sub-category and risk category.
+9. Dataset structure appears consistent and suitable for ETL and further analytics.
+10. AMFI validation completed successfully.
+11. All AMFI codes from fund_master are present in nav_history.
+12. Total missing AMFI codes found: 0.
